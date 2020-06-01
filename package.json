@@ -1,0 +1,17 @@
+{
+  "name": "ll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.11"
+  }
+}
